@@ -1,0 +1,11 @@
+{
+	"id": "whoa_rotate",
+	"version": "1.0",
+	"description": "Whoa! Rotate",
+	"categories": [
+		"joke",
+		"fools",
+		"toys"
+	],
+	"compatible_from": "2017.3.12"
+}
